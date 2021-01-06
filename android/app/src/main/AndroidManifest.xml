@@ -16,7 +16,7 @@
         android:label="bank_app"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCG-0enjId2sTac-rEqxmM53HTHSVpZyH0"/>
+            android:value="API KEY HERE"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
